@@ -1,0 +1,172 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------------< projectsunset:lift >-------------------------
+[INFO] Building lift 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ lift ---
+
+
+Current time: 80000
+------------------------
+Floor(occupants=100, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+
+
+Current time: 90000
+------------------------
+Floor(occupants=100, waitingForElevator=100)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Elevator(currentFloor=0 stops=5 isStopped=false, occupants=0)
+Elevator(currentFloor=0 stops=5 isStopped=false, occupants=0)
+Elevator(currentFloor=0 stops=5 isStopped=false, occupants=0)
+
+
+Current time: 90100
+------------------------
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=31, waitingForElevator=0)
+Floor(occupants=18, waitingForElevator=0)
+Floor(occupants=25, waitingForElevator=0)
+Floor(occupants=26, waitingForElevator=0)
+Elevator(currentFloor=1 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=3 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=1 stops=0 isStopped=true, occupants=0)
+
+
+Current time: 120000
+------------------------
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=31, waitingForElevator=31)
+Floor(occupants=18, waitingForElevator=18)
+Floor(occupants=25, waitingForElevator=25)
+Floor(occupants=26, waitingForElevator=26)
+Elevator(currentFloor=1 stops=8 isStopped=false, occupants=0)
+Elevator(currentFloor=3 stops=8 isStopped=false, occupants=0)
+Elevator(currentFloor=1 stops=8 isStopped=false, occupants=0)
+
+
+Current time: 120100
+------------------------
+Floor(occupants=44, waitingForElevator=0)
+Floor(occupants=22, waitingForElevator=22)
+Floor(occupants=8, waitingForElevator=8)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=26, waitingForElevator=26)
+Elevator(currentFloor=0 stops=4 isStopped=false, occupants=0)
+Elevator(currentFloor=0 stops=4 isStopped=false, occupants=0)
+Elevator(currentFloor=0 stops=4 isStopped=false, occupants=0)
+
+
+Current time: 120200
+------------------------
+Floor(occupants=92, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=4 stops=1 isStopped=false, occupants=8)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+
+
+Current time: 120300
+------------------------
+Floor(occupants=100, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+
+
+Current time: 124000
+------------------------
+Floor(occupants=100, waitingForElevator=100)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Elevator(currentFloor=0 stops=5 isStopped=false, occupants=0)
+Elevator(currentFloor=0 stops=5 isStopped=false, occupants=0)
+Elevator(currentFloor=0 stops=5 isStopped=false, occupants=0)
+
+
+Current time: 124100
+------------------------
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=31, waitingForElevator=0)
+Floor(occupants=18, waitingForElevator=0)
+Floor(occupants=25, waitingForElevator=0)
+Floor(occupants=26, waitingForElevator=0)
+Elevator(currentFloor=1 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=2 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=4 stops=0 isStopped=true, occupants=0)
+
+
+Current time: 170000
+------------------------
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=31, waitingForElevator=31)
+Floor(occupants=18, waitingForElevator=18)
+Floor(occupants=25, waitingForElevator=25)
+Floor(occupants=26, waitingForElevator=26)
+Elevator(currentFloor=1 stops=8 isStopped=false, occupants=0)
+Elevator(currentFloor=2 stops=8 isStopped=false, occupants=0)
+Elevator(currentFloor=4 stops=8 isStopped=false, occupants=0)
+
+
+Current time: 170100
+------------------------
+Floor(occupants=38, waitingForElevator=0)
+Floor(occupants=21, waitingForElevator=21)
+Floor(occupants=4, waitingForElevator=4)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=26, waitingForElevator=26)
+Elevator(currentFloor=0 stops=4 isStopped=false, occupants=0)
+Elevator(currentFloor=0 stops=4 isStopped=false, occupants=0)
+Elevator(currentFloor=3 stops=5 isStopped=false, occupants=11)
+
+
+Current time: 170200
+------------------------
+Floor(occupants=81, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=4 stops=1 isStopped=false, occupants=6)
+Elevator(currentFloor=4 stops=1 isStopped=false, occupants=13)
+
+
+Current time: 170300
+------------------------
+Floor(occupants=100, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Floor(occupants=0, waitingForElevator=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+Elevator(currentFloor=0 stops=0 isStopped=true, occupants=0)
+
+
+Average time per person: 326
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.131 s
+[INFO] Finished at: 2019-01-24T21:57:47+01:00
+[INFO] ------------------------------------------------------------------------
